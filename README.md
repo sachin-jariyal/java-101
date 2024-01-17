@@ -1,2 +1,2 @@
-# java-101
+# java
 Starting learning Java
